@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+.next
+node_modules
+*.log
+package-lock.json
